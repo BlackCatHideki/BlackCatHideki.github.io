@@ -1,0 +1,15 @@
+i { 
+    color: white;
+}
+
+i:hover {
+    color: #7b645e;
+}
+
+a {
+    text-decoration: none;
+}
+
+.card {
+    opacity: 0.9;
+}

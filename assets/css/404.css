@@ -1,0 +1,16 @@
+h1, h2{
+    color: white;
+    font-weight: bold;
+}
+
+h1:hover, h2:hover {
+    color: #7b645e;
+} 
+
+a {
+    text-decoration: none;
+}
+
+.card {
+    opacity: 0.9;
+}
