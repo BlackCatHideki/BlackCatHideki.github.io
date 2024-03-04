@@ -15,20 +15,19 @@ This is own social media reference landing page, it's deployed on GitHub Pages, 
  - [Bootstrap Icons](https://icons.getbootstrap.com/)
  - [Roboto Font](https://fonts.google.com/specimen/Roboto)
  - [GitHub Pages](https://pages.github.com/)
- - [Font Awesome](https://fontawesome.com/)
+ - [Freepik: Background picture](https://www.freepik.com/free-photo/navy-blue-concrete-wall-with-scratches_15556823.htm)
 
 
 
 ## Authors
 
 - [@EngJurado](https://github.com/EngJurado)
-- [@BlackCatHideki](https://github.com/BlackCatHideki)
 
 
 
 ## Demo
 
-[Click here to see the website.](https://blackcathideki.github.io/)
+[Click here to see the website.](https://engjurado.github.io/)
 
 
 
@@ -47,3 +46,19 @@ If you have any feedback, please reach out to me at eng.jurado@gmail.com
 ## License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
+
+
+## Screenshots
+
+<p align="center">Desktop</p>
+
+![Desktop](Screenshots/Desktop.png?raw=true "Desktop")
+
+<p align="center">Mobile</p>
+
+<p align="center">
+    <img src="Screenshots/Mobile.jpg"> 
+</p>
+
+
