@@ -5,7 +5,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-This is own social media reference landing page, it's deployed on GitHub Pages, and it use Bootstrap 5, Bootstrap Icons and Roboto Font.
+This is own social media reference landing page, it's deployed on GitHub Pages, and it use Bootstrap 5 and Font Awesome.
 
 
 
