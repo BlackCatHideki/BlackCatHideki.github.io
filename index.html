@@ -50,6 +50,11 @@
     </div>
 </body>
 <script>
-    twemoji.parse(document.body)
+    twemoji.parse(document.body, {
+        folder: 'svg',
+        ext: '.svg',
+        className: 'twemoji'
+    });
 </script>
 </html>
+
