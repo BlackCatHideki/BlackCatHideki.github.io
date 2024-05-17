@@ -13,3 +13,9 @@ a {
 .card {
     opacity: 0.9;
 }
+
+.twemoji {
+    height: 1em;
+    width: 1em;
+    vertical-align: -0.1em;
+}
