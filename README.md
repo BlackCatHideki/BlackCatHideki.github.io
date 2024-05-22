@@ -20,13 +20,13 @@ This is own social media reference landing page, it's deployed on GitHub Pages, 
 ## Authors
 
 - [@EngJurado](https://github.com/EngJurado)
-- [@BlackCatHideki](https://github.com/BlackCatHideki)
+- [@techcatHideki](https://github.com/techcatHideki)
 
 
 
 ## Demo
 
-[Click here to see the website.](https://blackcathideki.github.io/)
+[Click here to see the website.](https://techcatHideki.github.io)
 
 
 
